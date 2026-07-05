@@ -1,16 +1,15 @@
-## Hi there 👋
+## 阳光下的斑驳午后
+记忆里的童年，总是拉得很长很长。那时的夏天似乎比现在要热，但也快乐得多。
 
-<!--
-**jinquxu/jinquxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+最深刻的画面，永远定格在某个蝉鸣聒噪的午后。外婆家的院子里种着一棵大大的无花果树，阳光穿过树叶的缝隙，在水泥地上洒下一片片斑驳的光影。那时候的快乐特别简单：
 
-Here are some ideas to get you started:
+五分钱的冰棒： 哪怕只是色素水冻成的硬块，也能让我们从舌尖凉爽到心底，吃完后连舌头变成绿色都觉得是一件值得炫耀的大事。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+永远装不满的口袋： 里面总是塞满了玻璃弹珠、印着英雄人物的画片，或者是从路边捡来的、“具有神秘力量”的漂亮石头。
+
+不知疲倦的奔跑： 捉迷藏、跳皮筋、捉蜻蜓……哪怕流汗流到衣服湿透，只要听到同伴的一声呼唤，就又满血复活地冲进热浪里。
+
+傍晚时分，各家各户的烟囱开始冒出炊烟，空气里弥漫着红烧肉和炒时蔬 calm 的香气。随着大人们一声声拉长了音调的“回家吃饭喽——”，属于白天的冒险才恋恋不舍地落下帷幕。
+
+那时候的我们，总急着长大，以为长大了就能拥有全世界。
+却不知那段踩着拖鞋、满身泥巴、连影子都无忧无虑的时光，才是后来再也买不回来的黄金时代。
